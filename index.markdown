@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: post
 title: Huang Zhu
 description: A personal site of Huang Zhu
 ---
-# Huang Zhu
 
 ## Hello World
 Welcome to my personal page.

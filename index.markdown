@@ -1,5 +1,7 @@
 ---
 title: Huang Zhu
+author: Huang Zhu
+description: A personal site of Huang Zhu
 ---
 
 ## Hello World

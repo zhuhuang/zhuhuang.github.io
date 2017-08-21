@@ -1,6 +1,6 @@
 ---
+layout: page
 title: Huang Zhu
-author: Huang Zhu
 description: A personal site of Huang Zhu
 ---
 # Huang Zhu

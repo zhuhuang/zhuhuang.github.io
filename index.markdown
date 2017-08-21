@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Huang Zhu
 description: A personal site of Huang Zhu
 ---

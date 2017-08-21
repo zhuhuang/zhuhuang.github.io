@@ -3,13 +3,14 @@ title: Huang Zhu
 author: Huang Zhu
 description: A personal site of Huang Zhu
 ---
+# Huang Zhu
 
 ## Hello World
 Welcome to my personal page.
 
 ## Working Experience
-- Amazon
-- Yantra Financial Technologies
+- Amazon, Software Development Engineer
+- Yantra Financial Technologies, Research Engineer
 
 ## Education
 - Ph.D. in Computer Science, Kansas State University
